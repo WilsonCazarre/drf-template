@@ -1,2 +1,1 @@
-# arcadia
-The letterboxd clone for games
+# drf-template
